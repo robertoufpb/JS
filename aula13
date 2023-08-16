@@ -1,0 +1,7 @@
+// Não pode criar variáveis com palavras reservadas! EX: if, else, let, input...
+//camelCase
+//Case-sensitive
+// Não pode reeclerar variaveis com let.
+let nome = "João";
+let nomeCompleto = "Luiz gustavo";
+console.log("O nome é ", nomeCompleto);
